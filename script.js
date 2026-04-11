@@ -23,16 +23,16 @@ const catIconsMap = {
 // Replace the paths below with your actual image paths.
 const productImages = {
   "Excbio EH8300": {
-    card: "img/product/Excbio EH8300 .png",
+    card: "img/product/Excbio EH8300_3.png",
     images: [
+      "img/product/Excbio EH8300_3.png",
       "img/product/Excbio EH8300 .png",
       "img/product/Excbio EH8300_2.png",
-      "img/product/Excbio EH8300_3.png",
       // "img/products/eh8300-4.png",
     ],
   },
   "For-9001": {
-    card: "img/product/Forward FOR-9001.png",
+    card: "img/product/Forward FOR-9001_2.png",
     images: [
       "img/product/Forward FOR-9001_2.png",
       "img/product/Forward FOR-9001.png",
@@ -40,9 +40,9 @@ const productImages = {
     ],
   },
   "Mindray BC-3000": {
-    card: "img/product/Mindray BC 3000Plus.jpg",
+    card: "img/product/Mindray BC 3000Plus.png",
     images: [
-      "img/product/Mindray BC 3000Plus.jpg",
+      "img/product/Mindray BC 3000Plus.png",
       "img/products/bc-3000-2.png",
       "img/products/bc-3000-3.png",
       "img/products/bc-3000-4.png",
@@ -121,9 +121,9 @@ const productImages = {
     ],
   },
   "ECG-1206A": {
-    card: "img/product/ECG machine _ECG-1206A.jpg",
+    card: "img/product/ECG machine _ECG-1206A.png",
     images: [
-      "img/product/ECG machine _ECG-1206A.jpg",
+      "img/product/ECG machine _ECG-1206A.png",
       "img/products/ecg-1206a-2.png",
       "img/products/ecg-1206a-3.png",
       "img/products/ecg-1206a-4.png",
